@@ -23,8 +23,3 @@ class Game:
             elif menu_return== MENU_OPTION[4]:
                 pygame.quit()
                 quit()
-            # Check for all events
-            # for event in pygame.event.get():
-            #     if event.type == pygame.QUIT:
-            #         pygame.quit()  # Close Window
-            #         quit()
